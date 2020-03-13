@@ -19,7 +19,7 @@
             <h1 id="logo"><a href="index.php">Atlas</a></h1>
             <a href="index.php"></a>
             <ul class="nav-links">
-                <li><a href="#Home">Home</a></li>
+                <li><a href="#home">Home</a></li>
                 <li><a href="#locations">Locations</a></li>
                 <li><a href="#benefits">Benefits</a></li>
                 <li><a href="#contact">Contact</a></li>

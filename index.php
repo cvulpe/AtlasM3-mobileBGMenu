@@ -1,7 +1,7 @@
 <?php
   include('includes/header.php');
 ?>
-<section class="hero">
+<section id="home" class="hero">
     <h2>Travel Beyond Limits.</h2>
     <h3>
         Start planning your dream vacation at an affordable price with Atlas<br />Contact
